@@ -22,3 +22,15 @@ We have used NLTK for text preprocessing, including stopword removal, stemming, 
 
 The deliverable includes a Python script implementing the chatbot and a working prototype that interacts with users, providing meaningful responses. This project demonstrates the effective use of NLP techniques in developing intelligent conversational agents, making it ideal for applications in customer support, education, and automated assistance.
 
+
+OUTPUT:-
+Chatbot: Hello! Type 'bye' to exit.
+You: hello
+Chatbot: Hi there! How can I assist you today?
+You: how  are you
+Chatbot: I'm just a bot, but I'm doing great! How about you?
+You: what is your name
+Chatbot: I'm an AI chatbot created to help you.
+You: bye
+Chatbot: See you! Have a great day!
+
