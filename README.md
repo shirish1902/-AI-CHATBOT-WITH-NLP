@@ -25,12 +25,20 @@ The deliverable includes a Python script implementing the chatbot and a working 
 
 OUTPUT:-
 Chatbot: Hello! Type 'bye' to exit.
+
 You: hello
+
 Chatbot: Hi there! How can I assist you today?
+
 You: how  are you
+
 Chatbot: I'm just a bot, but I'm doing great! How about you?
+
 You: what is your name
+
 Chatbot: I'm an AI chatbot created to help you.
+
 You: bye
+
 Chatbot: See you! Have a great day!
 
